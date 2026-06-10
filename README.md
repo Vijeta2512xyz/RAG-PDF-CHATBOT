@@ -27,7 +27,7 @@ The application includes user authentication, document management, embedding gen
 - Stores embeddings in the database
 
 ### Semantic Search
-- Converts user queries into embeddings
+- Converts user queries into  embeddings
 - Computes cosine similarity scores
 - Retrieves the most relevant document chunks
 
